@@ -7,6 +7,8 @@
 
 I’m Nicolas. I love create different things and touch everything.
 
+I'm a student.
+
 I'm currently work on web tech like (web application & mobile application). 🖥️
 
 I work with this : 
