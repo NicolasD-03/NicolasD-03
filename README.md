@@ -44,6 +44,6 @@ I work with this :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasD-03&langs_count=8&layout=compact&theme=dracula)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasD&theme=dracula)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasD&theme=dracula&v=2)
 
 
